@@ -21,8 +21,12 @@
 {
     /* BACKGROUND */
 
-    background: url(images/head.png) no-repeat center top fixed;
+    background: url(images/head_2.png) no-repeat center top fixed;
     background-size: cover;
+
+    /* TEXT */
+
+    color: rgb(0, 107, 204);
 
     width: 100%;
     height: 500px;
@@ -32,7 +36,7 @@
 {
     /* BACKGROUND */
 
-    background-color: #49b9f5;
+    background-color: rgb(72, 185, 247);
 
     width: 100%;
     height: 900px;
@@ -79,7 +83,7 @@
     line-height: 50px;
 }
 
-/* ----STRUKTURE---- */
+/* ----TAGS---- */
 body
 {
     color: white;
