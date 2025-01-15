@@ -1,0 +1,58 @@
+.Background
+{
+    /* Цвет заднего фона */
+    background-color: blanchedalmond;
+
+    /* Размещение */
+    margin: 0;
+    background-position: center center;
+    
+    height: 1500px;
+}
+
+.PageTransition
+{
+    /* Цвет заднего фона */
+    /* background-color: red; */
+
+    /* Размещение */
+    display: flex;
+    justify-content: space-between;
+}
+
+.Transition
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Настройки текста */ 
+    font-size:27px;
+    font-family: Trans;
+    color: black;
+
+    margin-top: 17px;
+    margin-bottom: 14px;
+}
+
+.NoneLine
+{
+    text-decoration: none;
+}
+
+#Main
+{
+    margin-left: 300px;
+}
+
+/*
+#Concurs
+{
+    
+}
+*/
+
+#Traditions
+{
+    margin-right: 300px;
+}

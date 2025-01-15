@@ -1,0 +1,26 @@
+.imageGround
+{
+    /* Цвет */
+    background-color: wheat;
+
+    /* Позиционирование */
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.image
+{
+    /* Позиционирование */
+    width: 900px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.centerImage
+{
+    /* Позиционирование */
+    text-align: center;
+}

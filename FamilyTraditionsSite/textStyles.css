@@ -1,0 +1,33 @@
+.BasicText
+{
+    margin-left: 50px;
+    margin-right: 50px;
+
+    font-family: Roboto;
+    font-size: 25px;
+}
+
+.ImageText
+{
+    font-family: img;
+    font-size: 17px;
+    color: rgb(69, 69, 69);
+}
+
+@font-face
+{
+    font-family: "Roboto";
+    src: url(fonts/RobotoCondensed-Italic-VariableFont_wght.ttf) format(truetype);
+}
+
+@font-face 
+{
+    font-family: "Trans";
+    src: url(fonts/RobotoSlab-ExtraBold.ttf) format(truetype);
+}
+
+@font-face 
+{
+    font-family: "img";
+    src: url(fonts/IBMPlexSans-Medium.ttf) format(truetype);
+}
